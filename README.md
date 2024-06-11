@@ -2,6 +2,13 @@
 
 <h1 align="center">Hello there! 👋</h1>
 
+<br clear="both">
+
+<h3 align="center">Full-Stack Software Developer | Laravel Specialist | Application Migration Expert</h3>
+<p align="left">Professional Full-Stack Developer with over four years of solid experience in software development. Specialized in Laravel and expert in efficiently managing application migration and implementation towards new architectures and technologies. I am recognized for my meticulous approach to optimizing usability and user experience through the implementation of intuitive interfaces and the adoption of comprehensive methodologies in software development.</p>
+
+###
+
 <h2 align="center">I code with</h2>
 
 ###
@@ -27,17 +34,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
 </div>
-
-###
-
-
-<br clear="both">
-
-<h3 align="center">Desarrollador Full-Stack | Especialista en Laravel | Migración de Aplicaciones</h3>
-<p align="left">
-
-Desarrollador Full-Stack con una sólida experiencia de más de cuatro años en el desarrollo de software. Especializado en Laravel y experto en la migración e implementación de aplicaciones hacia nuevas arquitecturas y tecnologías. Mi enfoque se centra en garantizar la usabilidad y la experiencia del usuario mediante la codificación de interfaces intuitivas y la adopción de enfoques integrales para el desarrollo de software.
-</p>
 
 ###
 
