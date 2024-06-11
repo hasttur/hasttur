@@ -48,6 +48,7 @@
 
 <p align="center">✨ 4.5 years of valuable experience in the field.</p>
 
+<p align="center">
 - 🎯 Full-Stack Development.
 - 🎯 Application Migration.
 - 🎯 Unit Testing.
@@ -56,6 +57,9 @@
 - 📚 Bachelor of Science in Systems Engineering.
 - 📚 Associate Degree in Analysis and Development of Information Systems.
 - 📚 Technical degree in Software Programming.
+</p>
+
+###
 
 <br clear="both">
 
