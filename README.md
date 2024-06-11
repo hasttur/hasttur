@@ -40,13 +40,23 @@
 
 <br clear="both">
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">✨ 4.5 years of valuable experience in the field.<br>📚 Delving into Python for data science applications.<br>🎯 Specializing as a backend developer.</p>
+<p align="left">
+✨ 4.5 years of valuable experience in the field.<br>
+📚 Bachelor of Science in Systems Engineering.<br>
+📚 Associate Degree in Analysis and Development of Information Systems.</br>
+📚 Technician degree in Software Programming. </br>
+</br>
+🎯 Full-Stack Development.</br>
+🎯 Application Migration.</br>
+🎯 Unit Testing.</br>
+🎯 Project Dockerization.</br>
+</p>
 
 <br clear="both">
 
