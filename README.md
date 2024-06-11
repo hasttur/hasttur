@@ -48,7 +48,7 @@
 
 <p align="center">✨ 4.5 years of valuable experience in the field.</p>
 
-<p align="center">
+<p>
 - 🎯 Full-Stack Development.
 - 🎯 Application Migration.
 - 🎯 Unit Testing.
