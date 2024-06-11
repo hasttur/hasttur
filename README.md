@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">I code with</h2>
 
 ###
@@ -34,15 +32,13 @@
 
 ###
 
-###
 
 <br clear="both">
 
-<p align="left">Nilson Aldair Molina Rengifo
+<p align="left">
 Desarrollador Full-Stack | Especialista en Laravel | Migración de Aplicaciones
 
 Desarrollador Full-Stack con una sólida experiencia de más de cuatro años en el desarrollo de software. Especializado en Laravel y experto en la migración e implementación de aplicaciones hacia nuevas arquitecturas y tecnologías. Mi enfoque se centra en garantizar la usabilidad y la experiencia del usuario mediante la codificación de interfaces intuitivas y la adopción de enfoques integrales para el desarrollo de software.
-
 </p>
 
 ###
