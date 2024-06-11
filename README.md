@@ -49,12 +49,11 @@
 <p align="left">
 ✨ 4.5 years of valuable experience in the field.<br>
 
-| Columna 1                                      | Columna 2                  |
 |------------------------------------------------|-----------------------------|
-| 📚 Bachelor of Science in Systems Engineering. | 🎯 Full-Stack Development. |
-| 📚 Associate Degree in Analysis and Development of Information Systems. | 🎯 Application Migration. |
-| 📚 Technical degree in Software Programming.   | 🎯 Unit Testing.           |
-|                                                | 🎯 Project Dockerization.  |
+| 🎯 Full-Stack Development.| 📚 Bachelor of Science in Systems Engineering. |
+| 🎯 Application Migration. | 📚 Associate Degree in Analysis and Development of Information Systems. |
+| 🎯 Unit Testing. | 📚 Technical degree in Software Programming. |
+| 🎯 Project Dockerization. |  |
 
 
 <br clear="both">
