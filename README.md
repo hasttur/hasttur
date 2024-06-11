@@ -4,7 +4,8 @@
 
 <br clear="both">
 
-<h3 align="center">Full-Stack Software Developer | Laravel Specialist | Application Migration Expert</h3>
+<h3 align="center">PHP-Laravel Developer / Full-Stack Software Developer</h3>
+
 <p align="left">Professional Full-Stack Developer with over four years of solid experience in software development. Specialized in Laravel and expert in efficiently managing application migration and implementation towards new architectures and technologies. I am recognized for my meticulous approach to optimizing usability and user experience through the implementation of intuitive interfaces and the adoption of comprehensive methodologies in software development.</p>
 
 ###
