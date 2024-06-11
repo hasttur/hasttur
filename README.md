@@ -6,24 +6,6 @@
 
 <br clear="both">
 
-<p align="left">My name is Nilson Molina, a systems engineering student certified in information systems analysis and software programming. Specializing primarily in backend development, I have extensive experience with server-side technologies. While my focus is on backend, I also possess proficiency in frontend development, particularly in user interface design. My expertise extends to technology migrations and Restful API architectures, ensuring cohesive solutions across all development layers</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">✨ 4.5 years of valuable experience in the field.<br>📚 Delving into Python for data science applications.<br>🎯 Specializing as a backend developer.</p>
-
-###
-
-<br clear="both">
-
 <h2 align="center">I code with</h2>
 
 ###
@@ -51,6 +33,29 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<p align="left">Nilson Aldair Molina Rengifo
+Desarrollador Full-Stack | Especialista en Laravel | Migración de Aplicaciones
+
+Desarrollador Full-Stack con una sólida experiencia de más de cuatro años en el desarrollo de software. Especializado en Laravel y experto en la migración e implementación de aplicaciones hacia nuevas arquitecturas y tecnologías. Mi enfoque se centra en garantizar la usabilidad y la experiencia del usuario mediante la codificación de interfaces intuitivas y la adopción de enfoques integrales para el desarrollo de software.
+
+</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">About me</h2>
+
+###
+
+<br clear="both">
+
+<p align="left">✨ 4.5 years of valuable experience in the field.<br>📚 Delving into Python for data science applications.<br>🎯 Specializing as a backend developer.</p>
 
 <br clear="both">
 
