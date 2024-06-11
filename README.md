@@ -46,14 +46,14 @@
 
 <br clear="both">
 
-<p align="left">
+<p align="center">
 ✨ 4.5 years of valuable experience in the field.<br>
 
 - 🎯 Full-Stack Development.
 - 🎯 Application Migration.
 - 🎯 Unit Testing.
 - 🎯 Project Dockerization.
-
+<hr>
 - 📚 Bachelor of Science in Systems Engineering.
 - 📚 Associate Degree in Analysis and Development of Information Systems.
 - 📚 Technical degree in Software Programming.
