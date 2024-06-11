@@ -50,7 +50,7 @@
 ✨ 4.5 years of valuable experience in the field.<br>
 📚 Bachelor of Science in Systems Engineering.<br>
 📚 Associate Degree in Analysis and Development of Information Systems.</br>
-📚 Technician degree in Software Programming. </br>
+📚 Technicial degree in Software Programming. </br>
 </br>
 🎯 Full-Stack Development.</br>
 🎯 Application Migration.</br>
